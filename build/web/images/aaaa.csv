@@ -1,0 +1,6 @@
+name,desc,SKU,category,price,discount,quantity
+Fashion,Fashion,NULL,NULL,10000,20,0
+Grocery,Grocery,NULL,NULL,20000,10,0
+Mobiles,Mobiles,NULL,NULL,34344,10,0
+Toys & Baby,Toys & Baby,NULL,NULL,34554,20,0
+Electronics,Electronics,NULL,NULL,4335,50,0,
