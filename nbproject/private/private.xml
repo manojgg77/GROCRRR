@@ -2,36 +2,6 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group>
-            <file>file:/C:/Users/deepa/OneDrive/Documents/NetBeansProjects/GROCRY/src/java/databaseconnection/Seller.java</file>
-            <file>file:/C:/Users/deepa/OneDrive/Documents/NetBeansProjects/GROCRY/src/java/databaseconnection/dbconn.java</file>
-            <file>file:/C:/Users/deepa/OneDrive/Documents/NetBeansProjects/GROCRY/web/user/login.jsp</file>
-            <file>file:/C:/Users/deepa/OneDrive/Documents/NetBeansProjects/GROCRY/web/innerhome.jsp</file>
-            <file>file:/C:/Users/deepa/OneDrive/Documents/NetBeansProjects/GROCRY/src/java/Adminpower/deleteproduct.java</file>
-            <file>file:/C:/Users/deepa/OneDrive/Documents/NetBeansProjects/GROCRY/src/java/userservlet/forgetpswuser.java</file>
-            <file>file:/C:/Users/deepa/OneDrive/Documents/NetBeansProjects/GROCRY/web/admin/oneitemupdate.jsp</file>
-            <file>file:/C:/Users/deepa/OneDrive/Documents/NetBeansProjects/GROCRY/web/admin/adminhome.jsp</file>
-            <file>file:/C:/Users/deepa/OneDrive/Documents/NetBeansProjects/GROCRY/src/java/search/searchinginput.java</file>
-            <file>file:/C:/Users/deepa/OneDrive/Documents/NetBeansProjects/GROCRY/web/user/registration.jsp</file>
-            <file>file:/C:/Users/deepa/OneDrive/Documents/NetBeansProjects/GROCRY/web/saler/sallerlogin.jsp</file>
-            <file>file:/C:/Users/deepa/OneDrive/Documents/NetBeansProjects/GROCRY/web/cart/showcart.jsp</file>
-            <file>file:/C:/Users/deepa/OneDrive/Documents/NetBeansProjects/GROCRY/nbproject/build-impl.xml</file>
-            <file>file:/C:/Users/deepa/OneDrive/Documents/NetBeansProjects/GROCRY/web/order/fillorderdetail.jsp</file>
-            <file>file:/C:/Users/deepa/OneDrive/Documents/NetBeansProjects/GROCRY/web/home.jsp</file>
-            <file>file:/C:/Users/deepa/OneDrive/Documents/NetBeansProjects/GROCRY/web/photos/1+image.png</file>
-            <file>file:/C:/Users/deepa/OneDrive/Documents/NetBeansProjects/GROCRY/src/java/userservlet/removefromcart.java</file>
-            <file>file:/C:/Users/deepa/OneDrive/Documents/NetBeansProjects/GROCRY/src/java/saller/login.java</file>
-            <file>file:/C:/Users/deepa/OneDrive/Documents/NetBeansProjects/GROCRY/src/java/userservlet/cforget.java</file>
-            <file>file:/C:/Users/deepa/OneDrive/Documents/NetBeansProjects/GROCRY/src/java/databaseconnection/productshow.java</file>
-            <file>file:/C:/Users/deepa/OneDrive/Documents/NetBeansProjects/GROCRY/web/WEB-INF/web.xml</file>
-            <file>file:/C:/Users/deepa/OneDrive/Documents/NetBeansProjects/GROCRY/src/java/userservlet/LoginUser.java</file>
-            <file>file:/C:/Users/deepa/OneDrive/Documents/NetBeansProjects/GROCRY/src/java/saller/productadd.java</file>
-            <file>file:/C:/Users/deepa/OneDrive/Documents/NetBeansProjects/GROCRY/src/java/databaseconnection/cart.java</file>
-            <file>file:/C:/Users/deepa/OneDrive/Documents/NetBeansProjects/GROCRY/src/java/databaseconnection/dbqueryshomepage.java</file>
-            <file>file:/C:/Users/deepa/OneDrive/Documents/NetBeansProjects/GROCRY/src/java/databaseconnection/checkinguser.java</file>
-            <file>file:/C:/Users/deepa/OneDrive/Documents/NetBeansProjects/GROCRY/web/productdetail/productdetails.jsp</file>
-            <file>file:/C:/Users/deepa/OneDrive/Documents/NetBeansProjects/GROCRY/src/java/Adminpower/additemadmin.java</file>
-            <file>file:/C:/Users/deepa/OneDrive/Documents/NetBeansProjects/GROCRY/web/updateitemadmin.jsp</file>
-        </group>
+        <group/>
     </open-files>
 </project-private>

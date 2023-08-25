@@ -19,7 +19,7 @@ public class dbconn {
         try{
       Class.forName("com.mysql.cj.jdbc.Driver");
       String connString="jdbc:mysql://localhost:3306/deepak";
-       conn = DriverManager.getConnection(connString, "root", "deepak");
+       conn = DriverManager.getConnection(connString, "root", "manoj");
     }
         catch(ClassNotFoundException | SQLException e){System.out.println(e);}
         return conn;
